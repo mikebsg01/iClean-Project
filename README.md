@@ -9,7 +9,7 @@ iClean representa un proyecto a gran escala por mejorar el medio ambiente en nue
 
 En iClean nos interesa el cuidado del medio ambiente ya que sabemos que es nuestro mundo y el mundo de nuestros hijos el que esta en juego. Es por eso que en este proyecto mostraremos las actividades que realizaremos a lo largo de esta iniciativa.
 
-
+![Welcome to iClean Project](https://c9.io/michael97/demo-project/workspace/Applications-Mobiles/iClean-Project/assets/imagenes/Recicla.jpg)
 
 
 El cuidado del ambiente requiere la participación de ciudadanos organizados y conscientes de temas como el calentamiento global, la disposición de agua, la deforestación, los patrones de producción y consumo, así como los principios y valores que sustentan a esta sociedad. A partir de actividades cotidianas como transportarnos, asearnos, viajar, cocinar o comprar productos, y los impactos de éstas en el ambiente, es importante reflexionar en nuestros hábitos de consumo y actitudes hacia el cuidado y protección del ambiente. En nuestra casa, trabajo, comunidad o escuela podemos iniciar actividades concretas para mejorar el entorno. Para lograrlo necesitamos observar nuestro alrededor e identificar alternativas menos dañinas al ambiente, cambiar conductas y tomar decisiones basadas en el mejoramiento de la calidad de vida. Te invitamos a utilizar y enriquecer este material con tu creatividad y experiencia para fomentar una cultura ambiental en todo el país.
